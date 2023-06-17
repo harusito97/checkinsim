@@ -1,0 +1,23 @@
+{
+  "name": "checkinsim",
+  "version": "1.0.0",
+  "description": "check-in simulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/harusito97/checkinsim.git"
+  },
+  "author": "Alejandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harusito97/checkinsim/issues"
+  },
+  "homepage": "https://github.com/harusito97/checkinsim#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
